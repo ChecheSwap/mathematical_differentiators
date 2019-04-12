@@ -5,7 +5,7 @@ import math as mat
 import xgraph as gr
 import base as src
 
-#DERIVADOR DE ALTA GANANCIA
+#DERIVADOR "DERIVADA SUCIA"
 
 class DirtyDerivative:
     init = None
